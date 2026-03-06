@@ -29,5 +29,11 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+### Properties ###
+src/main/resources/application.properties
+
+.env
+*.log
+
 ### VS Code ###
 .vscode/
